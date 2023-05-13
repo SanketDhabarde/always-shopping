@@ -3,4 +3,4 @@
  * @returns Backend url
  */
 export const getUrlPrefix = () =>
-  `https://always-shopping-backend.sanketdhabarde.repl.co`;
+  `http://always-shopping-backend.sanketdhabarde.repl.co`;
