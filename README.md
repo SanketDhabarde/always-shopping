@@ -6,6 +6,8 @@
 > An e-commerce application for watches
 </div>
 
+## 👩‍💻 Backend Code
+[always-shopping-backend](https://github.com/SanketDhabarde/always-shopping-backend)
 
 ## 📽 Preview
 https://user-images.githubusercontent.com/40385118/187060968-c309a9e2-7cde-46f7-9002-6bec3433d7ad.mp4
@@ -34,6 +36,7 @@ yarn coverage
 
 ## ▶ Live url
 [always-shopping](https://always-shopping.netlify.app/)
+
 
 ## 🤯 How to run app locally
 ### 1. Clone the app
